@@ -1,5 +1,5 @@
 # FestiveTech2022LisaH
-This repository stores the code used in the Festive Tech Calendar 2022 submission by Lisa Hoving 
+This repository stores the code used in the Festive Tech Calendar 2022 submission by Lisa Hoving (https://sessionize.com/s/lisahoving/building-an-azure-data-lake-for-my-snake/54629)
 
 If you are looking for code to seperately:
 - Read data coming from the Adafruit DHT22 temperature and humidity sensor
