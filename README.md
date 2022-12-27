@@ -6,7 +6,7 @@ If you are looking for code to seperately:
 - Make a call using Twilio
 - Make a call to Azure IoT hubs
 
-Please check this repository
+Please check this repository (Festive Tech Calendar 2022 - Step by step - monitor my terrarium Python script.py)
 
 If you are looking for a Python script that puts all these components together, please check this repository
 
