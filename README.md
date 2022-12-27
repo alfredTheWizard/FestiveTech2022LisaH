@@ -8,7 +8,7 @@ If you are looking for code to seperately:
 
 Please check this repository (Festive Tech Calendar 2022 - Step by step - monitor my terrarium Python script.py)
 
-If you are looking for a Python script that puts all these components together, please check this repository
+If you are looking for a Python script that puts all these components together, please check this repository (Festive Tech Calendar 2022 - monitor my terrarium Python script.py)
 
 The used code utilizes the following dependencies:
 sudo apt update
