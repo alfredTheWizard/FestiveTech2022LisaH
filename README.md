@@ -5,6 +5,7 @@ If you are looking for code to seperately:
 - Read data coming from the Adafruit DHT22 temperature and humidity sensor
 - Make a call using Twilio
 - Make a call to Azure IoT hubs
+
 Please check this repository
 
 If you are looking for a Python script that puts all these components together, please check this repository
